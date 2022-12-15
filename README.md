@@ -9,7 +9,7 @@
 
 ## TL;DR
 
-This is a CSS practice project.
+This is a SCSS practice project.
 
 ### Show your support
 
