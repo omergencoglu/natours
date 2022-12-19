@@ -1,5 +1,5 @@
 <h2 align="center">
-  Natours
+  <a href="https://omergencoglu.github.io/natours/" target="_blank">Natours</a>
 </h2>
 <br/>
 
