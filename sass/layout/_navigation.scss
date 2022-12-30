@@ -109,6 +109,7 @@
   &__icon {
     position: relative;
     margin-top: 3.5rem;
+    transition: background-color 0.2s;
 
     &,
     &::before,
