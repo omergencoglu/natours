@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-<img alt="shieldsio" src="https://img.shields.io/badge/OPEN-SOURCE-blueviolet?style=for-the-badge&logo=appveyor" />
+<img alt="shieldsio" src="https://img.shields.io/badge/OPEN-SOURCE-blueviolet?style=for-the-badge" />
 </div>
 
 ## TL;DR
