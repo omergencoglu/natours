@@ -25,8 +25,6 @@ And uncomment below code in the index.html.
 <link rel="stylesheet" href="css/icon-font.css" />
 ```
 
----
-
 ### For production;
 
 ```
