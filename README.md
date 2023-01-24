@@ -9,7 +9,7 @@
 
 ## TL;DR
 
-This is a Sass practice project.
+This is a CSS/Sass practice project.
 
 ## How to run
 
